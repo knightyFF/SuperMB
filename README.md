@@ -1,7 +1,7 @@
 # SuperMB
 
 <p align="center">
-<img src="screenshot.png" width="75%"></img>
+<img src="Screenshot.png" width="75%"></img>
 </p>
 
  A little mandelbrot set renderer made while experimenting with deep zoom techniques.
