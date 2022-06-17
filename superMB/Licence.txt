@@ -1,0 +1,5 @@
+SuperMB is free. No warranty: use at your own risk.
+
+Imgui belongs to its owner.
+TinyFileDialogs belong to its owner.
+mpreal.h belong to its owner.
